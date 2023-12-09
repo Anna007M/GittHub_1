@@ -1,0 +1,84 @@
+.header-a{
+    color: #FED136;
+    text-align: center;
+    font-family: Bilbo Swash Caps;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41px; /* 113.889% */
+    letter-spacing: 1.3px;
+    }
+    .li-a{
+    color: #FED136;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41px; /* 292.857% */
+    text-transform: uppercase;
+    }
+    .section-h1{
+    color: #222;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 75px; /* 187.5% */
+    letter-spacing: -1px;
+    text-transform: uppercase;    
+    }
+    .main-h1{
+    color: #222;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 75px; /* 416.667% */
+    letter-spacing: -0.45px;    
+    }
+    .main-p{
+    color: #777;
+    text-align: center;
+    font-family: RobotoSlab;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.35px;    
+    }
+    .footer-h2{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    }
+    .form-label{
+    color: #BBB;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.35px;
+    text-transform: uppercase;    
+    }
+    .form-button{
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase; 
+    width: 242px;
+    height: 68px;
+    flex-shrink: 0;  
+    }
